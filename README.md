@@ -57,26 +57,26 @@ Image Processing	PIL
 Data Handling	NumPy
 AI Logic	Custom ML / Threshold Model
 ## 📂 Project Structure
-AI-Damage-Assessment/
+##### AI-Damage-Assessment/
 │
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Dependencies
 ├── assets/             # Sample images / media
 └── README.md
 
-### ⚙️ Installation & Setup
-## 1️⃣ Clone Repository
+## ⚙️ Installation & Setup
+### 1️⃣ Clone Repository
 git clone https://github.com/your-username/ai-damage-assessment.git
 cd ai-damage-assessment
 
-## 2️⃣ Create Virtual Environment (Recommended)
+### 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
 venv\Scripts\activate
 
-## 3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-## ▶️ Run the Application
+### ▶️ Run the Application
 streamlit run app.py
 
 
@@ -122,6 +122,6 @@ Strong portfolio project for AI / ML / Full Stack roles
 
 ## 👨‍💻 Author
 
-Surya Snata Panigrahi
-AI & Full Stack Developer
-Passionate about Machine Learning, Aerospace Systems & Intelligent Applications
+#### Surya Snata Panigrahi
+#### AI & Full Stack Developer
+#### Passionate about Machine Learning, Aerospace Systems & Intelligent Applications
