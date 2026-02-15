@@ -1,4 +1,4 @@
-## 🛡️ AI-Powered Damage Assessment System
+# 🛡️ AI-Powered Damage Assessment System :- 
 
 
 
@@ -9,9 +9,9 @@
 
 
 
-A production-ready AI-driven image analysis system that classifies damage severity from uploaded images using intelligent threshold-based and ML logic.
+##### A production-ready AI-driven image analysis system that classifies damage severity from uploaded images using intelligent threshold-based and ML logic.
 
-Built with Python + Streamlit, this project demonstrates practical implementation of computer vision concepts for defense, UAV systems, disaster monitoring, and infrastructure inspection.
+#### Built with Python + Streamlit, this project demonstrates practical implementation of computer vision concepts for defense, UAV systems, disaster monitoring, and infrastructure inspection.
 
 ## 📌 Project Highlights
 
